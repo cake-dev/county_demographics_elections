@@ -1,0 +1,62 @@
+Economic_typology_2015	County economic types, 2015 edition. Non-overlapping economic-dependence county 
+CENSUS_2020_POP	4/1/2020 resident Census 2020 population
+ESTIMATES_BASE_2020	4/1/2020 resident total population estimates base
+POP_ESTIMATE_2020	7/1/2020 resident total population estimate
+POP_ESTIMATE_2021	7/1/2021 resident total population estimate
+POP_ESTIMATE_2022	7/1/2022 resident total population estimate
+POP_ESTIMATE_2023	7/1/2023 resident total population estimate
+N_POP_CHG_2020	Numeric change in resident total population 4/1/2020 to 7/1/2020
+N_POP_CHG_2021	Numeric change in resident total population 7/1/2020 to 7/1/2021
+N_POP_CHG_2022	Numeric change in resident total population 7/1/2021 to 7/1/2022
+N_POP_CHG_2023	Numeric change in resident total population 7/1/2022 to 7/1/2023
+BIRTHS_2020	Births in period 4/1/2020 to 6/30/2020
+BIRTHS_2021	Births in period 7/1/2020 to 6/30/2021
+BIRTHS_2022	Births in period 7/1/2021 to 6/30/2022
+BIRTHS_2023	Births in period 7/1/2022 to 6/30/2023
+DEATHS_2020	Deaths in period 4/1/2020 to 6/30/2020
+DEATHS_2021	Deaths in period 7/1/2020 to 6/30/2021
+DEATHS_2022	Deaths in period 7/1/2021 to 6/30/2022
+DEATHS_2023	Deaths in period 7/1/2022 to 6/30/2023
+NATURAL_CHG_2020	Natural change in period 4/1/2020 to 6/30/2020
+NATURAL_CHG_2021	Natural change in period 7/1/2020 to 6/30/2021
+NATURAL_CHG_2022	Natural change in period 7/1/2021 to 6/30/2022
+NATURAL_CHG_2023	Natural change in period 7/1/2022 to 6/30/2023
+INTERNATIONAL_MIG_2020	Net international migration in period 4/1/2020 to 6/30/2020
+INTERNATIONAL_MIG_2021	Net international migration in period 7/1/2020 to 6/30/2021
+INTERNATIONAL_MIG_2022	Net international migration in period 7/1/2021 to 6/30/2022
+INTERNATIONAL_MIG_2023	Net international migration in period 7/1/2022 to 6/30/2023
+DOMESTIC_MIG_2020	Net domestic migration in period 4/1/2020 to 6/30/2020
+DOMESTIC_MIG_2021	Net domestic migration in period 7/1/2020 to 6/30/2021
+DOMESTIC_MIG_2022	Net domestic migration in period 7/1/2021 to 6/30/2022
+DOMESTIC_MIG_2023	Net domestic migration in period 7/1/2022 to 6/30/2023
+NET_MIG_2020	Net migration in period 4/1/2020 to 6/30/2020
+NET_MIG_2021	Net migration in period 7/1/2020 to 6/30/2021
+NET_MIG_2022	Net migration in period 7/1/2021 to 6/30/2022
+NET_MIG_2023	Net migration in period 7/1/2022 to 6/30/2023
+RESIDUAL_2020	Residual for period 4/1/2020 to 6/30/2020
+RESIDUAL_2021	Residual for period 7/1/2020 to 6/30/2021
+RESIDUAL_2022	Residual for period 7/1/2021 to 6/30/2022
+RESIDUAL_2023	Residual for period 7/1/2022 to 6/30/2023
+GQ_ESTIMATES_BASE_2020	4/1/2020 Group Quarters total population estimates base
+GQ_ESTIMATES_2020	7/1/2020 Group Quarters total population estimate
+GQ_ESTIMATES_2021	7/1/2021 Group Quarters total population estimate
+GQ_ESTIMATES_2022	7/1/2022 Group Quarters total population estimate
+GQ_ESTIMATES_2023	7/1/2023 Group Quarters total population estimate
+R_BIRTH_2021	Birth rate in period 7/1/2020 to 6/30/2021
+R_BIRTH_2022	Birth rate in period 7/1/2021 to 6/30/2022
+R_BIRTH_2023	Birth rate in period 7/1/2022 to 6/30/2023
+R_DEATH_2021	Death rate in period 7/1/2020 to 6/30/2021
+R_DEATH_2022	Death rate in period 7/1/2021 to 6/30/2022
+R_DEATH_2023	Death rate in period 7/1/2022 to 6/30/2023
+R_NATURAL_CHG_2021	Natural increase rate in period 7/1/2020 to 6/30/2021
+R_NATURAL_CHG_2022	Natural increase rate in period 7/1/2021 to 6/30/2022
+R_NATURAL_CHG_2023	Natural increase rate in period 7/1/2022 to 6/30/2023
+R_INTERNATIONAL_MIG_2021	Net international migration rate in period 7/1/2020 to 6/30/2021
+R_INTERNATIONAL_MIG_2022	Net international migration rate in period 7/1/2021 to 6/30/2022
+R_INTERNATIONAL_MIG_2023	Net international migration rate in period 7/1/2022 to 6/30/2023
+R_DOMESTIC_MIG_2021	Net domestic migration rate in period 7/1/2020 to 6/30/2021
+R_DOMESTIC_MIG_2022	Net domestic migration rate in period 7/1/2021 to 6/30/2022
+R_DOMESTIC_MIG_2023	Net domestic migration rate in period 7/1/2022 to 6/30/2023
+R_NET_MIG_2021	Net migration rate in period 7/1/2020 to 6/30/2021
+R_NET_MIG_2022	Net migration rate in period 7/1/2021 to 6/30/2022
+R_NET_MIG_2023	Net migration rate in period 7/1/2022 to 6/30/2023
