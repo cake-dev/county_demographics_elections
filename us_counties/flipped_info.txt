@@ -1,0 +1,11 @@
+This will add three new columns:
+
+flipped_2012_2016
+flipped_2016_2020
+flipped_2020_2024
+
+Each column will contain:
+
+3 for Democratic to Republican flips
+2 for Republican to Democratic flips
+0 for counties that stayed with the same party

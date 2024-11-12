@@ -1,0 +1,12 @@
+total_votes_2012         0
+votes_dem_2012           0
+votes_gop_2012           0
+per_dem_2012             0
+per_gop_2012             0
+                        ..
+president_winner_2024    0
+winner_2024              0
+state_electoral_votes    0
+state_pop_approx         0
+pct_pop_state            0
+Length: 1845, dtype: int64
